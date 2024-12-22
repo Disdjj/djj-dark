@@ -1,0 +1,21 @@
+{
+  "name": "djj-dark",
+  "displayName": "DJJ Dark",
+  "description": "A truly dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DJJ Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DJJ Dark-color-theme.json"
+      }
+    ]
+  }
+}
